@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 *Project Link* - https://delightful-sky-02ed1cf00.2.azurestaticapps.net/
 
-*Project Demo Video Link*  - https://www.youtube.com/watch?v=k41CsxEtwoM
+
 
 ## Features and Functionalities 😃
 
